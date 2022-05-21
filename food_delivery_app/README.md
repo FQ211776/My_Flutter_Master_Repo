@@ -6,40 +6,42 @@
 ![](20220521141537.png)
 ---
 ![](20220521141701.png)
+---
 01 Splash Screen
+![](20220521142759.png)  
 ---
 
 02 Location Screen
 
-
+---
 03 Home Screen
 
-
+---
 04 Restaurant Listing Screen
 
 
-
+---
 05 Filter Screen
 
-
+---
 06 Restauran Details  Screen
 
 
-
+---
 07 Basket Screen
 
-
+---
 08 Delivery Time Screen
 
 
 
-
+---
 09 Voucher Screen
 
-
+---
 10 Checkout Screen
 
-
+---
 11 Order Confirmation Screen
 
 
