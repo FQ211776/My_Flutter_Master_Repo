@@ -25,7 +25,7 @@
 
 08 Delivery Time Screen
 
-
+![](Docs/Images/08_Delivery_Time_Screen.png)  
 
 
 
