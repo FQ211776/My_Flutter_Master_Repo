@@ -6,6 +6,12 @@
 02 Location Screen
 ![](02_Location_Screen.png)
 
+03 Home Screen
+![](03_Home_Screen.png)
+
+04 Restaurant Listing Screen
+![](04_Restauran_Listing_Screen.png)  
+
 
 
 
