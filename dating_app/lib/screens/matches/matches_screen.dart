@@ -10,12 +10,12 @@ class MatchesScreen extends StatelessWidget {
     );
   }
 
-    @override
-   Widget build(BuildContext context) {
-	 return Scaffold(
-	   body: Center(
-		 child: Text('Hola Mundo'),
-	  ),
-	);
-   }
- }
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Center(
+        child: Text('Hola Mundo'),
+      ),
+    );
+  }
+}
