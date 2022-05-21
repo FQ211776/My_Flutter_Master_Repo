@@ -42,3 +42,8 @@
 
 ## Chat Screnn
 ![](20220521153613.png)
+
+---
+
+## Profile Screen
+![](Docs/Images/20220521153750.png)  
