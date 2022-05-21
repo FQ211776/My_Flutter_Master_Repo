@@ -40,10 +40,10 @@
 
 ---
 10 Checkout Screen
-![](20220521143757.png)  
+![](20220521143757.png)
 ---
 11 Order Confirmation Screen
-
+![](Docs/Images/20220521143833.png)  
 
 
 
