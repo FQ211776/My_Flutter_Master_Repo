@@ -15,35 +15,35 @@
 ---
 
 ## Onboarding Screen 01
-![](20220521152538.png)
-![](20220521152618.png)
-![](20220521152718.png)
-![](20220521152756.png)
-![](20220521152907.png)
-![](20220521153019.png)
-![](20220521153102.png)
+![](Docs/Images/20220521152538.png)
+![](Docs/Images/20220521152618.png)
+![](Docs/Images/20220521152718.png)
+![](Docs/Images/20220521152756.png)
+![](Docs/Images/20220521152907.png)
+![](Docs/Images/20220521153019.png)
+![](Docs/Images/20220521153102.png)
 
 ---
 
 ## Discover Screen
-![](20220521153157.png)
+![](Docs/Images/20220521153157.png)
 
 ---
 
 ## Users Screen
-![](20220521153340.png)
+![](Docs/Images/20220521153340.png)
 
 ---
 
 ## Matches Screen
-![](20220521153447.png)
+![](Docs/Images/20220521153447.png)
 
 ---
 
 ## Chat Screnn
-![](20220521153613.png)
+![](Docs/Images/20220521153613.png)
 
 ---
 
 ## Profile Screen
-![](Docs/Images/20220521153750.png)  
+![](Docs/Images/20220521153750.png)
