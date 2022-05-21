@@ -1,4 +1,17 @@
 # food_delivery_app
+Enable image previews in Loki file manager
+
+
+
+
+
+
+
+
+
+
+
+
 
 A new Flutter project.
 
