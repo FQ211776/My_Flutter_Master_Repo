@@ -1,5 +1,6 @@
 # food_delivery_app
-Enable image previews in Loki file manager
+
+
 
 
 
