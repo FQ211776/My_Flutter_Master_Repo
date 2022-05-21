@@ -32,7 +32,7 @@
 ![](20220521143507.png)
 ---
 08 Delivery Time Screen
-![](20220521143607.png)  
+![](20220521143607.png)
 
 
 ---
@@ -40,7 +40,7 @@
 
 ---
 10 Checkout Screen
-
+![](20220521143757.png)  
 ---
 11 Order Confirmation Screen
 
