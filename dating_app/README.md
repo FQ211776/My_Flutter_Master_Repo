@@ -25,5 +25,10 @@
 
 ---
 
-## Discover Page
-![](20220521153157.png)  
+## Discover Screen
+![](20220521153157.png)
+
+---
+
+## Users Screen
+![](20220521153340.png)
