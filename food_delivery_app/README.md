@@ -25,11 +25,11 @@
 ![](20220521143241.png)
 ---
 06 Restauran Details  Screen
-![](20220521143400.png)  
+![](20220521143400.png)
 
 ---
 07 Basket Screen
-
+![](20220521143507.png)  
 ---
 08 Delivery Time Screen
 
