@@ -1,6 +1,12 @@
 # food_delivery_app
 
-![](01_Splash_Screen.png)  
+01 Splash Screen
+![](01_Splash_Screen.png)
+
+02 Location Screen
+![](02_Location_Screen.png)
+
+
 
 
 
