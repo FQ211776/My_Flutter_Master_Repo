@@ -21,8 +21,9 @@
 
 
 07 Basket Screen
-![](07_Basket_Screen.png)  
+![](07_Basket_Screen.png)
 
+08 Delivery Time Screen
 
 
 
