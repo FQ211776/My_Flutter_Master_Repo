@@ -35,7 +35,6 @@
 ![](10_Checkout_Screen.png)
 
 11 Order Confirmation Screen
-
 ![](11_Order_Confirmation_Screen.png)
 
 
