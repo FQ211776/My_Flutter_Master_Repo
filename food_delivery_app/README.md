@@ -20,7 +20,8 @@
 ![](06_Restaurant_Details_Screen.png)
 
 
-
+07 Basket Screen
+![](07_Basket_Screen.png)  
 
 
 
