@@ -35,7 +35,7 @@ class AppRouter {
   static Route _errorRoute() {
     return MaterialPageRoute(
       builder: (_) => Scaffold(appBar: AppBar(title: const Text('error'))),
-      settings: RouteSettings(name: '/error'),
+      settings: const RouteSettings(name: '/error'),
     );
   }
 }
