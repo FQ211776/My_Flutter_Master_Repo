@@ -28,23 +28,23 @@ ThemeData theme() {
         fontWeight: FontWeight.bold,
         fontSize: 18,
       ),
-      headline4: const TextStyle(
+      headline4: TextStyle(
         color: Color(0xFF2B2E4A),
         fontWeight: FontWeight.bold,
         fontSize: 16,
       ),
-      headline5: const TextStyle(
+      headline5: TextStyle(
         color: Color(0xFF2B2E4A),
         fontWeight: FontWeight.bold,
         fontSize: 14,
       ),
       headline6: TextStyle(
-        color: const Color(0xFF2B2E4A),
+        color: Color(0xFF2B2E4A),
         fontWeight: FontWeight.normal,
         fontSize: 14,
       ),
       bodyText1: TextStyle(
-        color: const Color(0xFF2B2E4A),
+        color: Color(0xFF2B2E4A),
         fontWeight: FontWeight.normal,
         fontSize: 12,
       ),
